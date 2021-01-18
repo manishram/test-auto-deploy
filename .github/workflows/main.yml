@@ -32,4 +32,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           sudo cp /var/www/html/index.html /var/www/index.html,
-          sudo mkdir /var/www/html/test.
+          sudo mkdir /var/www/html/test
